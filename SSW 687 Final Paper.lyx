@@ -1,0 +1,234 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Engineering Emergence and Social Networks
+\end_layout
+
+\begin_layout Author
+Christopher Perro
+\end_layout
+
+\begin_layout Date
+December 12, 2011
+\end_layout
+
+\begin_layout Abstract
+Put Abstract Here
+\end_layout
+
+\begin_layout Chapter
+Introduction
+\end_layout
+
+\begin_layout Paragraph
+One of the most fascinating topics in Systems Engineering, and more particularly
+, Systems of Systems Engineering is that of Emergence.
+ It is one of those topics that seems to have it all: postive effects, negative
+ effects, neutral effects, minor effects, enormous effects, paradoxes, philosoph
+y, axioms, and so much more.
+ Emergence is the defining factor in what makes many of our systems today
+ useful, valuable, and unique.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Some of the best examples today of systems of systems that display and take
+ advantage of emergence are social networks.
+ It is one of those areas that sees the rise and fall of many competetors
+ trying desperately to win the war of the top social network.
+ The list of those that have faded away vastly outweighs the list of the
+ relevant.
+ Systems like Myspace, Google+, Orkut, and Friendster all have vied and
+ fallen to networks like Facebook and Twitter.
+ Whether they realize it or not, each user of these systems is a key player
+ in the system (which is a system of a systems) the emergence that the system
+ exhibits.
+ In fact, the users themselves are one of the primary reasons that the emergence
+ exists at all.
+ 
+\end_layout
+
+\begin_layout Chapter
+Emergence, In General
+\end_layout
+
+\begin_layout Paragraph
+Emergence is a key trait of mant system of systems.
+ It is best described by David Fischer in his paper 
+\begin_inset Quotes eld
+\end_inset
+
+An Emergent Perspective on Interoperation in Systems of Systems
+\begin_inset Quotes erd
+\end_inset
+
+.
+ He says that 
+\begin_inset Quotes eld
+\end_inset
+
+Emergent behaviors are actions that cannot be localized to any single component
+ of the system but instead produce effects (often in form of services) that
+ arise from the cumlative action and interactions of many independent acting
+ components
+\begin_inset Quotes erd
+\end_inset
+
+.
+ It is therefore safe to deduce a few things about emergence.
+ First, it is a property only of large systtems of systems.
+ Secondly (and relatedly), it can be used as a defining factor for whether
+ a system is a true system of systems.
+ Finally, the key force behind emergennce is the interaction or communication
+ between system elements.
+ Charles Keating reiterates Fischer's definition by saying 
+\begin_inset Quotes eld
+\end_inset
+
+Emergence is a principle in classical systems theory that generally suggests
+ that system properies (patterns, capabilities, structure, behaviors) develop
+ from the interaction of system elements
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Keating goes on to quote Aristotle to create a poignant analogy: 
+\begin_inset Quotes eld
+\end_inset
+
+...the whole is more than the sum of its parts
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Paragraph
+There is a bit more to the definition of emergence than just effects that
+ arise from the intereaction of system components.
+ Both Fischer and Keating go on in their defitions and describe a few very
+ important ascpects of emergence.
+ Fischer says 
+\begin_inset Quotes eld
+\end_inset
+
+Emergence is the unavoidable result of interactions among autonomous entities
+ and thus will occur in systems of systems whether by accident of intention.
+ Emergence can be instrumental in the success or failure of systems of systems
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Emergent system properties are entirely neutral.
+ They can try to be designed into a system or pop up unexpectedly.
+ They can also be really good things, really bad things, or even things
+ that have no effect.
+ Finally, Keating gives a slightly disturbing caveat to emergence.
+ He says 
+\begin_inset Quotes eld
+\end_inset
+
+These emergent properties are no ascribable to any of the system elements
+ and cannot be understood/proedicted from the properties of the system elements
+\begin_inset Quotes erd
+\end_inset
+
+.
+ For engineers, this is a scary thought.
+ This leaves open the possibility that a system could be designed from other
+ other systems and even though the plan was well thought out and verified,
+ an emergence effect could pop up and possibly ruin the system.
+ 
+\end_layout
+
+\begin_layout Paragraph
+
+\end_layout
+
+\begin_layout Chapter
+Engineering for Emergence
+\end_layout
+
+\begin_layout Chapter
+Emergence in Social Networks
+\end_layout
+
+\begin_layout Chapter
+Difficulties of Emergence
+\end_layout
+
+\begin_layout Section
+The Paradox of Emergence
+\end_layout
+
+\begin_layout Section
+Network of Social Networks
+\end_layout
+
+\begin_layout Chapter
+Conclusion
+\end_layout
+
+\end_body
+\end_document
