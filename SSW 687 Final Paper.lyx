@@ -270,7 +270,149 @@ The previous two examples also supply evidence for other properties of emergence
 \end_layout
 
 \begin_layout Chapter
-Engineering for Emergence
+Detecting Emergence
+\end_layout
+
+\begin_layout Paragraph
+After understanding what emergence actually is and all of the things it
+ implies, the chanllenge becomes being able to detect it in systems of systems.
+ The first thing to make clear is that detecting emergence and predicting
+ emergence are two entirely different things.
+ Detecting emergence involves analyzing a system in a certain way to be
+ able to see emergence that may not have made itself apparent yet or solidly
+ defining the prospect of emergent behavior.
+ Predicting emergent behaviors (and/or trying to build them into a system)
+ is another topic entirely; one which as will be discussed later may not
+ even be possible.
+ Several methods have been researched and reported on that may shed light
+ on detecting emergent behaviors in a system.
+\end_layout
+
+\begin_layout Paragraph
+Peter Haglich and Laura Pullum researched and reported on a method of attempting
+ to detect emergence in social networks.
+ They posed that 
+\begin_inset Quotes eld
+\end_inset
+
+Multiple interconnected networks can be considered a 'System of Systems'
+ with the collective networks comprising the larger system - individual
+ interacting networks with each network is also a system in its own right
+\begin_inset Quotes erd
+\end_inset
+
+.
+ They chose social networks because 
+\begin_inset Quotes eld
+\end_inset
+
+Detecting emergent behavior in social networks can help determine when or
+ if they are about to change in a radical way
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Together, Haglich and Pullum conducted some analysis using semi-boolean
+ algebra to achieve their end.
+ 
+\end_layout
+
+\begin_layout Paragraph
+In another paper Jochen Fromm postulates that the scientific method could
+ be used to help better understand emergent behaviors in systems of systems.
+ He believes the problem is that these large systems are 
+\begin_inset Quotes eld
+\end_inset
+
+...predictable and regular at certain scales, but unpredictable and irregular
+ at other scales
+\begin_inset Quotes erd
+\end_inset
+
+.
+ More specifically, Fromm finds that at small scales, the systems with the
+ larger system behaves exactly as designed.
+ No unexpected beahvior can be found.
+ However, once systems begin to be combined with other systems and the view
+ of the system becomes much higher, unpredictable behaviors emerge.
+ Fromm's details his solutions: 
+\begin_inset Quotes eld
+\end_inset
+
+There is no formal approach or methodology which would be a solution to
+ the problems of 'engineering emergence' or 'engineering self-organizing
+ systems', but there is a well-known general method based on a stepwise
+ iterative enhancement which birdges the micro-macro distinction - the classic
+ scientific method
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Fromm goes on to say that since the scientific method has yet to really
+ be used in the discipline of engineering that it is a viable route to explore.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Lastly, Jorge Louca, JOhn Symons, David Rodrigues, and Andre Morais also
+ set out to find a method for detecting what they have called 
+\begin_inset Quotes eld
+\end_inset
+
+emergent fingerprints
+\begin_inset Quotes erd
+\end_inset
+
+ in system (social network systems more specifically).
+ They believe 
+\begin_inset Quotes eld
+\end_inset
+
+...that socially networked behavior is not merely the composition of constituent
+ individuals
+\begin_inset Quotes erd
+\end_inset
+
+.
+ To detect the emergent fingerprints in any system, they seek to model that
+ system and the communication interfaces therein.
+ The authors outline two interesting case studies: one on cicadas and another
+ on the idea of a 
+\begin_inset Quotes eld
+\end_inset
+
+smart mob
+\begin_inset Quotes erd
+\end_inset
+
+.
+ What is most interesting are the two conclusions that they draw from the
+ case studies.
+ First, they 
+\begin_inset Quotes eld
+\end_inset
+
+conclude that knowing only the links between the nodes of the communications
+ network is enough to characterize the flow of information in these specific
+ social situations
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Second, 
+\begin_inset Quotes eld
+\end_inset
+
+the combination of patterns, identified at different abstraction levels,
+ is a way of identifying social structures determined by communication processes
+\begin_inset Quotes erd
+\end_inset
+
+.
+ These conclusions help shift the focus of system definition off of the
+ actual subsystems and onto the communication between those systems.
+ The communication, not components, becomes the focus of detecting emergent
+ behavior.
 \end_layout
 
 \begin_layout Chapter
