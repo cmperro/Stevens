@@ -69,11 +69,22 @@ Christopher Perro
 \end_layout
 
 \begin_layout Date
-December 12, 2011
+December 11, 2011
 \end_layout
 
 \begin_layout Abstract
-Put Abstract Here
+Some of today's largest systems are the social networks that connect us
+ to people all over the world.
+ These systems, which are really systems of systems, started out looking
+ much different than they do today.
+ A major player in the transformation of networks like Facebook and Twitter
+ has been the phenonomen called Emergence.
+ Unexpected, often highly desirable effects often emerge from these large,
+ distributed systems with large amounts of human intereaction.
+ In fact, the emergent behaviors have come to be defining factors in the
+ systems in which they emerge.
+ The big question then remains: Can these emergent behaviors be build into
+ new systems?
 \end_layout
 
 \begin_layout Chapter
@@ -105,7 +116,30 @@ Some of the best examples today of systems of systems that display and take
  exhibits.
  In fact, the users themselves are one of the primary reasons that the emergence
  exists at all.
- 
+\end_layout
+
+\begin_layout Paragraph
+The logical question to then ask is 
+\begin_inset Quotes eld
+\end_inset
+
+can emergent behavior be engineered into a system?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The quick answer depends largely upon the definition of emergence that
+ is used.
+ Some definitions make a clear distinction that emergent behavior can be
+ predicted from component behavior.
+ Other definitions, however, make no such reference.
+ Nonetheless, even if the former definition is selected, perhaps something
+ else can be analyzed in attempt to predict emegernt behavior (outside of
+ the behavoir of the subcomponents).
+ This is certainly the viewpoint of the optimist.
+ It is absolutely natural to try to contain and engineer something with
+ such wide-ranging, far-reaching effects.
+ As of yet, though, this has been out of reach.
 \end_layout
 
 \begin_layout Chapter
@@ -269,6 +303,19 @@ The previous two examples also supply evidence for other properties of emergence
  
 \end_layout
 
+\begin_layout Paragraph
+The first task after defining emergence is being able to detect it.
+ Due to the nature of emergent behaviors, they can lay dormant for days,
+ or months, or even years.
+ A large system of systems could be stable for several releases before the
+ organization that maintains it decides that a new system should be rolled
+ up underneath it.
+ The addition of this new system could very easily bring about a rise of
+ some emergent behavior.
+ Thus, the ability to analyze a large system for dormant (or visible) emergent
+ behavior is highly desirable.
+\end_layout
+
 \begin_layout Chapter
 Detecting Emergence
 \end_layout
@@ -314,7 +361,14 @@ Detecting emergent behavior in social networks can help determine when or
 .
  Together, Haglich and Pullum conducted some analysis using semi-boolean
  algebra to achieve their end.
- 
+ They concede that thier approach only provides the ability to discover
+ explicit emergent behavior.
+ That is, emergent behaviors can be deduced when all of the variables in
+ a system are known.
+ Further research must be done using equation modeling to make the approach
+ more useful; most systems have many hidden or unknown variables.
+ This extension of their apporach would prove to be very useful if/when
+ that happens.
 \end_layout
 
 \begin_layout Paragraph
@@ -350,6 +404,18 @@ There is no formal approach or methodology which would be a solution to
 .
  Fromm goes on to say that since the scientific method has yet to really
  be used in the discipline of engineering that it is a viable route to explore.
+ Fromm posits that engineering and science are actually trying to do the
+ same thing: 
+\begin_inset Quotes eld
+\end_inset
+
+find a simple rule for a complex pattern
+\begin_inset Quotes erd
+\end_inset
+
+.
+ He also concedes that his method falls a bit short when dealing with social
+ or natural systems since they are usually a result of some sort of evolution.
  
 \end_layout
 
@@ -415,8 +481,23 @@ the combination of patterns, identified at different abstraction levels,
  behavior.
 \end_layout
 
+\begin_layout Paragraph
+When discussing social networks, the last method seems to provide the most
+ success.
+ Since a large amount of the structure of social networks lies in the communicat
+ion paths and linkages, models are the natural route to go.
+ The notion of the smart mob is something that has been seen fairly regularly
+ in today's actice social networks.
+ Hopefully, in the furture, system designers can model thier networks in
+ effort to try to predict any emergent behaviors.
+\end_layout
+
 \begin_layout Chapter
 Emergence in Social Networks
+\end_layout
+
+\begin_layout Section
+Twitter
 \end_layout
 
 \begin_layout Paragraph
@@ -523,6 +604,10 @@ verify
  survival and spread of protest movements all over the world.
 \end_layout
 
+\begin_layout Section
+Facebook
+\end_layout
+
 \begin_layout Paragraph
 Facebook also started out as a fairly simple social network.
  Each user would have a profile that contained the user's name, picture,
@@ -593,15 +678,45 @@ The proliferation of playing games on facebook has also emerged as the years
 \end_layout
 
 \begin_layout Paragraph
-Finally, the largest emergent behavior that has come from Facebook must
- be the existance of non-traditional pages.
+Two ideas that have emerged from mass posting on walls are Facebook Marketplace
+ and Events.
+ The users of facebook at one point decided that it would be a great idea
+ to use facebook to try and sell items they no longer have a use for.
+ Facebook Marketplace was born out of this idea.
+ Instead of posting a status about an item someone is looking to sell, or
+ posting on your friends wall asking them if you are interesting in buying
+ an item, users can go to a central marketplace.
+ This way, they receive greater product distrubution.
+ Facebook events also became a natural extension of the infrastructure.
+ It's common for a group of friends to want to meet up at a certain location
+ for a particualr occasion.
+ Again, instead of visiting each friend's profile and posting something
+ on thier wall about an event, a module was created to make the process
+ easier.
+ Users can now create events and invite people to them.
+ Any time the event information is updated, or someone makes a comment about
+ the event, all of the invited friends are notified.
+\end_layout
+
+\begin_layout Paragraph
+The largest emergent behavior that has come from Facebook must be the existance
+ of non-traditional pages.
  It was, in the past, that each page represented one user.
  Facebook now has pages for celebrities, businesses, and groups.
  Small businesses that can't afford the time or money to maintain a website
  of their own can very easily create a facebook page and populate it with
  thier physical address (if there is one), thier products/services, their
  contact information, and can even communicate with possible customers.
- 
+\end_layout
+
+\begin_layout Paragraph
+Finally, Facebook has been instrumental in organizing smart mobs, just like
+ Twitter.
+ One can point to a recent example for Facebook as well.
+ The spark that set off the massive Egyptain protests in January of 2011
+ was started by a Facebook group.
+ The protestors then heavily relied on Facebook and Twitter to organize
+ and rally themselves.
 \end_layout
 
 \begin_layout Chapter
