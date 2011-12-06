@@ -419,6 +419,191 @@ the combination of patterns, identified at different abstraction levels,
 Emergence in Social Networks
 \end_layout
 
+\begin_layout Paragraph
+Over the past few years the internet has seen the rise (and fall) of many
+ social networks.
+ They need almost no introduction.
+ Words like 
+\begin_inset Quotes eld
+\end_inset
+
+facebook
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+twitter
+\begin_inset Quotes erd
+\end_inset
+
+ are known almost the world over.
+ They are massivly distributed systems of systems.
+ They make for the perfect systems to analyze for two very important reasons.
+ First, thier main purpose is communication (one of our keys to detecting
+ emergent behavior).
+ Secondly, and most importantly, humans play a major role in these systems.
+ The creativity, unpredictability, and ingenuity of the human mind is one
+ of the biggest contributors to emergent behavior.
+\end_layout
+
+\begin_layout Paragraph
+Twitter is a social network that was created in March of 2006.
+ In the simplest of terms, each user, identified by a username, can broadcast
+ messages of up to 160 characters at a time.
+ The most common way of receiving these messages is by 
+\begin_inset Quotes eld
+\end_inset
+
+following
+\begin_inset Quotes erd
+\end_inset
+
+ other peoples message feeds.
+ The initial idea was to simply broadcast whatever was on your mind at that
+ moment in time.
+ Since it's incpetion, twitter has ballooned to over 300 million users who
+ tweet more than 300 million tweets a day.
+ 
+\end_layout
+
+\begin_layout Paragraph
+The first indication that emergence has played a part in this system is
+ the fact that anyone even remotely knowledgable of Twitter knows that it
+ is so much more than the description above.
+ The first thing to emerge from Twitter was the idea of 
+\begin_inset Quotes eld
+\end_inset
+
+tweeting
+\begin_inset Quotes erd
+\end_inset
+
+ links to other websites.
+ And, hand in hand with that, tweeting links to photos (basically on another
+ website).
+ This seems like a pefectly natural progression.
+ Not only can one now tweet what's on thier mind, bu they can also show
+ thier followers what they are doing (or where they are or who they're with
+ or what they are looking at...).
+ The thought/ability to tweet links lead news websites to tweet links to
+ newly posted articles.
+ The ability mention someone in a tweet has enabled users to have line by
+ line conversations with each other and even celebrities! The system has
+ enabled an outlet for celebrities/sports players/politicians connect randomly
+ with thier followers.
+ This, however, didn't come without its problems.
+ The anonomity of the internet enables anyone to claim they are Michael
+ Jordan.
+ Twitter of course responded with the ability to 
+\begin_inset Quotes eld
+\end_inset
+
+verify
+\begin_inset Quotes erd
+\end_inset
+
+ accounts, but people are still undoubtedly fooled everyday.
+ Twitter has also become a free means of distrubting useful services.
+ Take, for example, the MTA.
+ Twitter provides the MTA a stable internet infrastructure to disseminate
+ information like subway line availability and delays.
+ People can now receive useful information and check up on their friends
+ all in one place.
+ Finally, Twitter has become an invaluable tool in aiding and organizing
+ Louca, Symons, Rodigrues, and Morais' smart mobs.
+ As this paper is being written, the various Occupy groups across the country
+ (and world) are using Twitter not only to spread thier message, but also
+ to help protestors track the movements of Occupy groups and get updates
+ on the latest information.
+ The simple ability to query topics in tweets has turned a social system
+ where people broadcast thier thoughts into a system that is key to the
+ survival and spread of protest movements all over the world.
+\end_layout
+
+\begin_layout Paragraph
+Facebook also started out as a fairly simple social network.
+ Each user would have a profile that contained the user's name, picture,
+ school information, and a simple 
+\begin_inset Quotes eld
+\end_inset
+
+about me
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Users would then 
+\begin_inset Quotes eld
+\end_inset
+
+friend
+\begin_inset Quotes erd
+\end_inset
+
+ each other to gain access to thier profiles.
+ In addition to seeing another user's profile, a user could also write on
+ thier friend's wall.
+ That is, leave a message for thier friend (and all the friends said friend
+ had) to see.
+ It was a simple, relatively small system.
+ Facebook started out exclusively for the students at Harvard University.
+ After subsequent releases to just colleges (user's were required to have
+ a valid college email adress), then to special invites from college only
+ users, to then the entire world, Facebook has grown to over 800 million
+ users.
+ Facebook has not only grown in terms of user base.
+ It has also grown significantly in terms of functionality and emergence
+ has played a key role here as well.
+\end_layout
+
+\begin_layout Paragraph
+One of the first emergent behaviors here also has to do with photos.
+ Facebook has gone from a system that simply lets a user upload a defining
+ profile picture to one that allows users to upload and store every digital
+ photo that they have ever taken.
+ Beyond even that, the system allows users to 
+\begin_inset Quotes eld
+\end_inset
+
+tag
+\begin_inset Quotes erd
+\end_inset
+
+ other people in photos.
+ Facebook is almost starting to become people's main source of photo backup.
+ If your computer crashes and you lose all of your data (photos included),
+ you can at least be assured that you have all of them saved to facebook
+ (albeit a copy of much lesser quality).
+ 
+\end_layout
+
+\begin_layout Paragraph
+The proliferation of playing games on facebook has also emerged as the years
+ have gone by.
+ At one time the Facebook game FarmVille had 80 million players (that's
+ one in ten users!).
+ It seems that a natural progression from simple social networking is using
+ that base infrastructure to implement distrubuted game play.
+ This is a principle that had been previously exlpoited by many a Xbox and
+ Playstation game.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Finally, the largest emergent behavior that has come from Facebook must
+ be the existance of non-traditional pages.
+ It was, in the past, that each page represented one user.
+ Facebook now has pages for celebrities, businesses, and groups.
+ Small businesses that can't afford the time or money to maintain a website
+ of their own can very easily create a facebook page and populate it with
+ thier physical address (if there is one), thier products/services, their
+ contact information, and can even communicate with possible customers.
+ 
+\end_layout
+
 \begin_layout Chapter
 Difficulties of Emergence
 \end_layout
