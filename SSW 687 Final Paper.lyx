@@ -78,9 +78,9 @@ Some of today's largest systems are the social networks that connect us
  These systems, which are really systems of systems, started out looking
  much different than they do today.
  A major player in the transformation of networks like Facebook and Twitter
- has been the phenonomen called Emergence.
+ has been the phenomenon called Emergence.
  Unexpected, often highly desirable effects often emerge from these large,
- distributed systems with large amounts of human intereaction.
+ distributed systems with large amounts of human interaction.
  In fact, the emergent behaviors have come to be defining factors in the
  systems in which they emerge.
  The big question then remains: Can these emergent behaviors be build into
@@ -94,9 +94,9 @@ Introduction
 \begin_layout Paragraph
 One of the most fascinating topics in Systems Engineering, and more particularly
 , Systems of Systems Engineering is that of Emergence.
- It is one of those topics that seems to have it all: postive effects, negative
- effects, neutral effects, minor effects, enormous effects, paradoxes, philosoph
-y, axioms, and so much more.
+ It is one of those topics that seems to have it all: positive effects,
+ negative effects, neutral effects, minor effects, enormous effects, paradoxes,
+ philosophy, axioms, and so much more.
  Emergence is the defining factor in what makes many of our systems today
  useful, valuable, and unique.
  
@@ -105,7 +105,7 @@ y, axioms, and so much more.
 \begin_layout Paragraph
 Some of the best examples today of systems of systems that display and take
  advantage of emergence are social networks.
- It is one of those areas that sees the rise and fall of many competetors
+ It is one of those areas that sees the rise and fall of many competitors
  trying desperately to win the war of the top social network.
  The list of those that have faded away vastly outweighs the list of the
  relevant.
@@ -134,8 +134,8 @@ can emergent behavior be engineered into a system?
  predicted from component behavior.
  Other definitions, however, make no such reference.
  Nonetheless, even if the former definition is selected, perhaps something
- else can be analyzed in attempt to predict emegernt behavior (outside of
- the behavoir of the subcomponents).
+ else can be analyzed in attempt to predict emergent behavior (outside of
+ the behavior of the subcomponents).
  This is certainly the viewpoint of the optimist.
  It is absolutely natural to try to contain and engineer something with
  such wide-ranging, far-reaching effects.
@@ -147,12 +147,12 @@ Emergence, In General
 \end_layout
 
 \begin_layout Paragraph
-Emergence is a key trait of mant system of systems.
+Emergence is a key trait of many system of systems.
  It is best described by David Fischer in his paper 
 \begin_inset Quotes eld
 \end_inset
 
-An Emergent Perspective on Interoperation in Systems of Systems
+An Emergent Perspective on Inter-operation in Systems of Systems
 \begin_inset Quotes erd
 \end_inset
 
@@ -163,24 +163,24 @@ An Emergent Perspective on Interoperation in Systems of Systems
 
 Emergent behaviors are actions that cannot be localized to any single component
  of the system but instead produce effects (often in form of services) that
- arise from the cumlative action and interactions of many independent acting
+ arise from the cumulative action and interactions of many independent acting
  components
 \begin_inset Quotes erd
 \end_inset
 
 .
  It is therefore safe to deduce a few things about emergence.
- First, it is a property only of large systtems of systems.
+ First, it is a property only of large systems of systems.
  Secondly (and relatedly), it can be used as a defining factor for whether
  a system is a true system of systems.
- Finally, the key force behind emergennce is the interaction or communication
+ Finally, the key force behind emergence is the interaction or communication
  between system elements.
  Charles Keating reiterates Fischer's definition by saying 
 \begin_inset Quotes eld
 \end_inset
 
 Emergence is a principle in classical systems theory that generally suggests
- that system properies (patterns, capabilities, structure, behaviors) develop
+ that system properties (patterns, capabilities, structure, behaviors) develop
  from the interaction of system elements
 \begin_inset Quotes erd
 \end_inset
@@ -200,9 +200,9 @@ Emergence is a principle in classical systems theory that generally suggests
 
 \begin_layout Paragraph
 There is a bit more to the definition of emergence than just effects that
- arise from the intereaction of system components.
- Both Fischer and Keating go on in their defitions and describe a few very
- important ascpects of emergence.
+ arise from the interaction of system components.
+ Both Fischer and Keating go on in their definitions and describe a few
+ very important aspects of emergence.
  Fischer says 
 \begin_inset Quotes eld
 \end_inset
@@ -224,7 +224,7 @@ Emergence is the unavoidable result of interactions among autonomous entities
 \end_inset
 
 These emergent properties are no ascribable to any of the system elements
- and cannot be understood/proedicted from the properties of the system elements
+ and cannot be understood/predicted from the properties of the system elements
 \begin_inset Quotes erd
 \end_inset
 
@@ -245,7 +245,7 @@ The interaction between system components that emergence speaks to can be
 \begin_inset Quotes eld
 \end_inset
 
-Influence is any mechanism by which one entity interacts with anouther in
+Influence is any mechanism by which one entity interacts with another in
  a way that challenges the physical, informational, or emotional state of
  the other
 \begin_inset Quotes erd
@@ -267,11 +267,11 @@ You're crazy :)
 
  may lead to a simple giggle or smile.
  However, removing the emoticon could influence the other party to pick
- a fight even if the sending party meant the repsonse in a playful way.
- Influence can conver just as broad of a range of atrributes.
- It can be subtle, glaring, postive, negative, intentional, and accidental.
+ a fight even if the sending party meant the response in a playful way.
+ Influence can covey just as broad of a range of attributes.
+ It can be subtle, glaring, positive, negative, intentional, and accidental.
  It fits well with emergence.
- Influence can also propogate through a system.
+ Influence can also propagate through a system.
  That is where cascade effects come into play.
  The easiest way to describe this property of emergence is with a simple,
  familiar example.
@@ -281,7 +281,7 @@ You're crazy :)
  She then proceeds to scold her child for making too much noise (which up
  until this point has not bothered her).
  The child is now in a bad mood for being yelled at.
- And a near silent household has emerged since everyone is mad at eveyone
+ And a near silent household has emerged since everyone is mad at everyone
  else.
  That sums up cascading effects, influence, and an emergent behavior all
  in one.
@@ -294,10 +294,10 @@ The previous two examples also supply evidence for other properties of emergence
  But perhaps the largest player in the two example are what Fischer describes
  as Semantic Issues.
  In the examples the tone and intention of the language used between two
- parties are the sematic issues.
- These semantic isssues would seem to be localized to the human domain,
- but they are not.
- In the world of the internet, information sharing, and information analysis
+ parties are the semantic issues.
+ These semantic issues would seem to be localized to the human domain, but
+ they are not.
+ In the world of the Internet, information sharing, and information analysis
  semantic issues creep up in transmitting, codifying, and reasoning amongst
  non-human entities.
  
@@ -322,7 +322,7 @@ Detecting Emergence
 
 \begin_layout Paragraph
 After understanding what emergence actually is and all of the things it
- implies, the chanllenge becomes being able to detect it in systems of systems.
+ implies, the challenge becomes being able to detect it in systems of systems.
  The first thing to make clear is that detecting emergence and predicting
  emergence are two entirely different things.
  Detecting emergence involves analyzing a system in a certain way to be
@@ -342,7 +342,7 @@ Peter Haglich and Laura Pullum researched and reported on a method of attempting
 \begin_inset Quotes eld
 \end_inset
 
-Multiple interconnected networks can be considered a 'System of Systems'
+Multiple interconnected networks can be considered a system of System's
  with the collective networks comprising the larger system - individual
  interacting networks with each network is also a system in its own right
 \begin_inset Quotes erd
@@ -359,15 +359,15 @@ Detecting emergent behavior in social networks can help determine when or
 \end_inset
 
 .
- Together, Haglich and Pullum conducted some analysis using semi-boolean
+ Together, Haggish and Pullum conducted some analysis using semi-boolean
  algebra to achieve their end.
- They concede that thier approach only provides the ability to discover
+ They concede that their approach only provides the ability to discover
  explicit emergent behavior.
  That is, emergent behaviors can be deduced when all of the variables in
  a system are known.
  Further research must be done using equation modeling to make the approach
  more useful; most systems have many hidden or unknown variables.
- This extension of their apporach would prove to be very useful if/when
+ This extension of their approach would prove to be very useful if/when
  that happens.
 \end_layout
 
@@ -386,7 +386,7 @@ In another paper Jochen Fromm postulates that the scientific method could
 .
  More specifically, Fromm finds that at small scales, the systems with the
  larger system behaves exactly as designed.
- No unexpected beahvior can be found.
+ No unexpected behavior can be found.
  However, once systems begin to be combined with other systems and the view
  of the system becomes much higher, unpredictable behaviors emerge.
  Fromm's details his solutions: 
@@ -396,7 +396,7 @@ In another paper Jochen Fromm postulates that the scientific method could
 There is no formal approach or methodology which would be a solution to
  the problems of 'engineering emergence' or 'engineering self-organizing
  systems', but there is a well-known general method based on a stepwise
- iterative enhancement which birdges the micro-macro distinction - the classic
+ iterative enhancement which bridges the micro-macro distinction - the classic
  scientific method
 \begin_inset Quotes erd
 \end_inset
@@ -420,7 +420,7 @@ find a simple rule for a complex pattern
 \end_layout
 
 \begin_layout Paragraph
-Lastly, Jorge Louca, JOhn Symons, David Rodrigues, and Andre Morais also
+Lastly, Jorge Louca, John Symons, David Rodrigues, and Andre Morais also
  set out to find a method for detecting what they have called 
 \begin_inset Quotes eld
 \end_inset
@@ -487,8 +487,8 @@ When discussing social networks, the last method seems to provide the most
  Since a large amount of the structure of social networks lies in the communicat
 ion paths and linkages, models are the natural route to go.
  The notion of the smart mob is something that has been seen fairly regularly
- in today's actice social networks.
- Hopefully, in the furture, system designers can model thier networks in
+ in today's active social networks.
+ Hopefully, in the future, system designers can model their networks in
  effort to try to predict any emergent behaviors.
 \end_layout
 
@@ -501,7 +501,7 @@ Twitter
 \end_layout
 
 \begin_layout Paragraph
-Over the past few years the internet has seen the rise (and fall) of many
+Over the past few years the Internet has seen the rise (and fall) of many
  social networks.
  They need almost no introduction.
  Words like 
@@ -521,9 +521,9 @@ twitter
 \end_inset
 
  are known almost the world over.
- They are massivly distributed systems of systems.
+ They are massively distributed systems of systems.
  They make for the perfect systems to analyze for two very important reasons.
- First, thier main purpose is communication (one of our keys to detecting
+ First, their main purpose is communication (one of our keys to detecting
  emergent behavior).
  Secondly, and most importantly, humans play a major role in these systems.
  The creativity, unpredictability, and ingenuity of the human mind is one
@@ -545,15 +545,15 @@ following
  other peoples message feeds.
  The initial idea was to simply broadcast whatever was on your mind at that
  moment in time.
- Since it's incpetion, twitter has ballooned to over 300 million users who
+ Since it's inception, twitter has ballooned to over 300 million users who
  tweet more than 300 million tweets a day.
  
 \end_layout
 
 \begin_layout Paragraph
 The first indication that emergence has played a part in this system is
- the fact that anyone even remotely knowledgable of Twitter knows that it
- is so much more than the description above.
+ the fact that anyone even remotely knowledgeable of Twitter knows that
+ it is so much more than the description above.
  The first thing to emerge from Twitter was the idea of 
 \begin_inset Quotes eld
 \end_inset
@@ -565,18 +565,18 @@ tweeting
  links to other websites.
  And, hand in hand with that, tweeting links to photos (basically on another
  website).
- This seems like a pefectly natural progression.
- Not only can one now tweet what's on thier mind, bu they can also show
- thier followers what they are doing (or where they are or who they're with
+ This seems like a perfectly natural progression.
+ Not only can one now tweet what's on their mind, bu they can also show
+ their followers what they are doing (or where they are or who they're with
  or what they are looking at...).
  The thought/ability to tweet links lead news websites to tweet links to
  newly posted articles.
  The ability mention someone in a tweet has enabled users to have line by
  line conversations with each other and even celebrities! The system has
  enabled an outlet for celebrities/sports players/politicians connect randomly
- with thier followers.
+ with their followers.
  This, however, didn't come without its problems.
- The anonomity of the internet enables anyone to claim they are Michael
+ The anonymity of the Internet enables anyone to claim they are Michael
  Jordan.
  Twitter of course responded with the ability to 
 \begin_inset Quotes eld
@@ -587,20 +587,20 @@ verify
 \end_inset
 
  accounts, but people are still undoubtedly fooled everyday.
- Twitter has also become a free means of distrubting useful services.
+ Twitter has also become a free means of distributing useful services.
  Take, for example, the MTA.
- Twitter provides the MTA a stable internet infrastructure to disseminate
+ Twitter provides the MTA a stable Internet infrastructure to disseminate
  information like subway line availability and delays.
  People can now receive useful information and check up on their friends
  all in one place.
  Finally, Twitter has become an invaluable tool in aiding and organizing
  Louca, Symons, Rodigrues, and Morais' smart mobs.
  As this paper is being written, the various Occupy groups across the country
- (and world) are using Twitter not only to spread thier message, but also
- to help protestors track the movements of Occupy groups and get updates
+ (and world) are using Twitter not only to spread their message, but also
+ to help protesters track the movements of Occupy groups and get updates
  on the latest information.
  The simple ability to query topics in tweets has turned a social system
- where people broadcast thier thoughts into a system that is key to the
+ where people broadcast their thoughts into a system that is key to the
  survival and spread of protest movements all over the world.
 \end_layout
 
@@ -628,15 +628,15 @@ friend
 \begin_inset Quotes erd
 \end_inset
 
- each other to gain access to thier profiles.
+ each other to gain access to their profiles.
  In addition to seeing another user's profile, a user could also write on
- thier friend's wall.
- That is, leave a message for thier friend (and all the friends said friend
+ their friend's wall.
+ That is, leave a message for their friend (and all the friends said friend
  had) to see.
  It was a simple, relatively small system.
  Facebook started out exclusively for the students at Harvard University.
  After subsequent releases to just colleges (user's were required to have
- a valid college email adress), then to special invites from college only
+ a valid college email address), then to special invites from college only
  users, to then the entire world, Facebook has grown to over 800 million
  users.
  Facebook has not only grown in terms of user base.
@@ -671,8 +671,8 @@ The proliferation of playing games on facebook has also emerged as the years
  At one time the Facebook game FarmVille had 80 million players (that's
  one in ten users!).
  It seems that a natural progression from simple social networking is using
- that base infrastructure to implement distrubuted game play.
- This is a principle that had been previously exlpoited by many a Xbox and
+ that base infrastructure to implement distributed game play.
+ This is a principle that had been previously exploited by many a Xbox and
  Playstation game.
  
 \end_layout
@@ -686,12 +686,12 @@ Two ideas that have emerged from mass posting on walls are Facebook Marketplace
  Instead of posting a status about an item someone is looking to sell, or
  posting on your friends wall asking them if you are interesting in buying
  an item, users can go to a central marketplace.
- This way, they receive greater product distrubution.
+ This way, they receive greater product distribution.
  Facebook events also became a natural extension of the infrastructure.
  It's common for a group of friends to want to meet up at a certain location
- for a particualr occasion.
+ for a particular occasion.
  Again, instead of visiting each friend's profile and posting something
- on thier wall about an event, a module was created to make the process
+ on their wall about an event, a module was created to make the process
  easier.
  Users can now create events and invite people to them.
  Any time the event information is updated, or someone makes a comment about
@@ -699,13 +699,13 @@ Two ideas that have emerged from mass posting on walls are Facebook Marketplace
 \end_layout
 
 \begin_layout Paragraph
-The largest emergent behavior that has come from Facebook must be the existance
+The largest emergent behavior that has come from Facebook must be the existence
  of non-traditional pages.
  It was, in the past, that each page represented one user.
  Facebook now has pages for celebrities, businesses, and groups.
  Small businesses that can't afford the time or money to maintain a website
  of their own can very easily create a facebook page and populate it with
- thier physical address (if there is one), thier products/services, their
+ their physical address (if there is one), their products/services, their
  contact information, and can even communicate with possible customers.
 \end_layout
 
@@ -713,9 +713,9 @@ The largest emergent behavior that has come from Facebook must be the existance
 Finally, Facebook has been instrumental in organizing smart mobs, just like
  Twitter.
  One can point to a recent example for Facebook as well.
- The spark that set off the massive Egyptain protests in January of 2011
+ The spark that set off the massive Egyptian protests in January of 2011
  was started by a Facebook group.
- The protestors then heavily relied on Facebook and Twitter to organize
+ The protesters then heavily relied on Facebook and Twitter to organize
  and rally themselves.
 \end_layout
 
