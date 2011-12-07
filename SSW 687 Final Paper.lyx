@@ -890,6 +890,29 @@ may be obvious, but (is) too often ignored
 Network of Social Networks
 \end_layout
 
+\begin_layout Paragraph
+Norm Augustine anecdotally described how perspective plays a large part
+ in how System of Systems are defined.
+ He relates how a fuel pump is a system, which itself is part of the larger
+ system that is the airplane engine, which itself is part of a larger system
+ that is the whole airplane, which itself is part of the larger system that
+ is airplane infrastructure which itself is part of the larger system that
+ is the transportation infrastructure, etc.
+ This same sort of logic can be applied to social networks.
+ At one of the larger scales, each modern day social network (Facebook,
+ Twitter, Reddit, Google+) also now has the ability to interact not only
+ with each other, but also other systems like news websites.
+ As the system and system view become larger and higher a few things happen.
+ First, the probability of emergent behavior manifesting increases.
+ Second, the ability to analyze the system as a whole becomes much harder.
+ Modeling one social network is hard enough, let alone two or more.
+ Behaviors start to become mysterious again because no one has had the time
+ or ability to do any analysis.
+ The technological world we live in changes and adapts so quickly that by
+ the time any analysis or research is done, there is a good possiblity that
+ the technology is either no longer relevant or changed dramatically.
+\end_layout
+
 \begin_layout Section
 Emergence and Philosophy
 \end_layout
@@ -906,7 +929,91 @@ key "key-1"
 
 \end_inset
 
-Five Maxims about Emergent Behavior in Systems of Systems
+Fisher, David A.
+ An Emergent Perspective on Interoperation in Systems of Systems.
+ Tech.
+ CMU/SEI, 2006.
+ Print.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+Fromm, Jochen.
+ On Engineering and Emergence.
+ Tech.
+ Kassel, Germany: Distributed Systems Group, Kassel University.
+ Print.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-3"
+
+\end_inset
+
+Haglich, Peter, Christopher Rouff, and Laura Pullum.
+ Detecing Emergence in Social Networks.
+ Tech.
+ IEEE International Conference on Social Computing, 2010.
+ Print.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-5"
+
+\end_inset
+
+Keating, Charles B.
+ "Emergence in System of Systems." System of Systems Engineering: Innovations
+ for the 21st Century.
+ By Mohammad Jamshidi.
+ John Wiley & Sonds, 2008.
+ 169-90.
+ Print.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-6"
+
+\end_inset
+
+Louca, Jorge, John Symons, David Rodrigues, and Andre Morais.
+ Emergence in Social Networks: Modeling the Intentional Properties of Multi-Agen
+t Systems.
+ Tech.
+ Print.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-7"
+
+\end_inset
+
+Morley, John.
+ "Library | Five Maxims about Emergent Behavior in Systems of Systems." Software
+ Engineering Institute.
+ Software Engineering Institue at Carnegie Mellon, 01 June 2006.
+ Web.
+ 01 Dec.
+ 2011.
+ <http://www.sei.cmu.edu/library/abstracts/news-at-sei/feature2200606.cfm>.
 \end_layout
 
 \end_body
