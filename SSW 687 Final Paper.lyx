@@ -723,16 +723,190 @@ Finally, Facebook has been instrumental in organizing smart mobs, just like
 Difficulties of Emergence
 \end_layout
 
+\begin_layout Paragraph
+Any system that is a mix of massive amounts of hardware, software, and millions
+ of people can be considered complex.
+ However, adding the topic of emergence to a system makes things even more
+ so.
+ Its hard to believe that philosophy could make its way into any engineering
+ paper, but it is something that must be considered when dealing with emergence.
+ As time goes by and more and more social networks pop up, the frame of
+ reference for these networks must be raised, and the idea of a system of
+ social networks must start to be considered.
+ 
+\end_layout
+
 \begin_layout Section
 The Paradox of Emergence
+\end_layout
+
+\begin_layout Paragraph
+Many of the definitions of emergence and emergent behavior create a paradoxical
+ understanding of the subject.
+ Recall Keating's definition of emergence: 
+\begin_inset Quotes eld
+\end_inset
+
+Emergence is a principle in classical systems theory that generally suggests
+ that system properties (patterns, capabilities, structure, behaviors) develop
+ from interaction of system elements.
+ These emergent properties are not ascribable to any of the system elements
+ and cannot be understood/predicted from the properties of the system elements
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This definition leads to many paradoxical questions.
+ Jochen Fromm raises most of them.
+ He asks 
+\begin_inset Quotes eld
+\end_inset
+
+...
+ can we design a predictable system with unpredictable properties - or is
+ it a contradiction in itself?
+\begin_inset Quotes erd
+\end_inset
+
+ This is a logical question.
+ Engineering is supposed to be the logical application of science.
+ Why bother taking the time to carefully design systems if random, unpredicatabl
+e properties may emerge and ruin the system? Fromm goes on to say 
+\begin_inset Quotes eld
+\end_inset
+
+...the phenomenon of 'emergence' is at odds with any attempt to engineer and
+ design a system
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Section
+Fischer and Emergence
+\end_layout
+
+\begin_layout Paragraph
+David Fisher has a slighty different take on emergence.
+ He believes that 
+\begin_inset Quotes eld
+\end_inset
+
+Emergent behavior is often observed but poorly understood, especially in
+ the context of automated systems
+\begin_inset Quotes erd
+\end_inset
+
+.
+ His paper on Emergence and Systems of Systems attempts to remove the mystery
+ and pessimism that other authors converge to.
+ He directly addresses some of the mystery and paradox mentioned above.
+ Fisher says 
+\begin_inset Quotes eld
+\end_inset
+
+Because we don't understand enough about the processes by which local actions
+ and interactions with neighbors are composed to produce emergent behavior,
+ we often are surprised at the resulting emergent global effects.
+ This has encouraged the belief that emergent behavior is synonmous with
+ unexpected, unanticipated, unpredictable, and undesirable behavior
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Fisher uses the rest of his paper to explain why and how emergent behavior
+ can be tamed and predictable.
+ His explanation offers some solice that emergence isn't totally out of
+ the hands of the systems engineer while casually admitting that some aspects
+ of emergent behavior are not wholly understood.
+ He says 
+\begin_inset Quotes eld
+\end_inset
+
+...
+ emergent behavior arises naturally and predictably from influence mechanisms,
+ cascade effects, and other emergent phenomena that are inherent in systems
+ of systems
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Fisher has come up with five maxim-like findings.
+ They are:
+\end_layout
+
+\begin_layout Enumerate
+Because they cannot control one another, autonomous entities can achieve
+ goals that are not local to themselves only by increasing thier influence
+ through cooperative interations with others.
+\end_layout
+
+\begin_layout Enumerate
+Emergent composition is often poorly understood and sometimes misunderstood
+ because it has few analogies in traditional systems engineering.
+\end_layout
+
+\begin_layout Enumerate
+Even in the absence of accidents, tight coupling can ensure that a system
+ of systems is unable to satisfy its objectives.
+\end_layout
+
+\begin_layout Enumerate
+If it is to remain scalable and affordable no matter how large it may become,
+ a system's cost per constituent must grow less linearly with its size.
+\end_layout
+
+\begin_layout Enumerate
+Delay is a critical aspect of systems of systems.
+\end_layout
+
+\begin_layout Paragraph
+Of the five maxims, numbers two and five are the most important for this
+ discussion.
+ Number two was just discussed.
+ Number five 
+\begin_inset Quotes eld
+\end_inset
+
+may be obvious, but (is) too often ignored
+\begin_inset Quotes erd
+\end_inset
+
+ as John Morley puts it.
+ The idea of delay is something that is often overlooked.
+ This is partly due to the fact that delay tends to have a negative connotation.
+ However, since delay is inherent in communication, and communication is
+ one of the hallmarks of emergence, delay can play a huge role in emergence.
+ 
 \end_layout
 
 \begin_layout Section
 Network of Social Networks
 \end_layout
 
+\begin_layout Section
+Emergence and Philosophy
+\end_layout
+
 \begin_layout Chapter
 Conclusion
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+Five Maxims about Emergent Behavior in Systems of Systems
 \end_layout
 
 \end_body
