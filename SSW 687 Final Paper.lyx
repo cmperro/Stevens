@@ -508,7 +508,7 @@ Over the past few years the Internet has seen the rise (and fall) of many
 \begin_inset Quotes eld
 \end_inset
 
-facebook
+Facebook
 \begin_inset Quotes erd
 \end_inset
 
@@ -532,7 +532,7 @@ twitter
 
 \begin_layout Paragraph
 Twitter is a social network that was created in March of 2006.
- In the simplest of terms, each user, identified by a username, can broadcast
+ In the simplest of terms, each user, identified by a user-name, can broadcast
  messages of up to 160 characters at a time.
  The most common way of receiving these messages is by 
 \begin_inset Quotes eld
@@ -594,7 +594,7 @@ verify
  People can now receive useful information and check up on their friends
  all in one place.
  Finally, Twitter has become an invaluable tool in aiding and organizing
- Louca, Symons, Rodigrues, and Morais' smart mobs.
+ Louca, Symons, Rodrigues, and Morais' smart mobs.
  As this paper is being written, the various Occupy groups across the country
  (and world) are using Twitter not only to spread their message, but also
  to help protesters track the movements of Occupy groups and get updates
@@ -660,13 +660,13 @@ tag
  other people in photos.
  Facebook is almost starting to become people's main source of photo backup.
  If your computer crashes and you lose all of your data (photos included),
- you can at least be assured that you have all of them saved to facebook
+ you can at least be assured that you have all of them saved to Facebook
  (albeit a copy of much lesser quality).
  
 \end_layout
 
 \begin_layout Paragraph
-The proliferation of playing games on facebook has also emerged as the years
+The proliferation of playing games on Facebook has also emerged as the years
  have gone by.
  At one time the Facebook game FarmVille had 80 million players (that's
  one in ten users!).
@@ -680,8 +680,8 @@ The proliferation of playing games on facebook has also emerged as the years
 \begin_layout Paragraph
 Two ideas that have emerged from mass posting on walls are Facebook Marketplace
  and Events.
- The users of facebook at one point decided that it would be a great idea
- to use facebook to try and sell items they no longer have a use for.
+ The users of Facebook at one point decided that it would be a great idea
+ to use Facebook to try and sell items they no longer have a use for.
  Facebook Marketplace was born out of this idea.
  Instead of posting a status about an item someone is looking to sell, or
  posting on your friends wall asking them if you are interesting in buying
@@ -704,7 +704,7 @@ The largest emergent behavior that has come from Facebook must be the existence
  It was, in the past, that each page represented one user.
  Facebook now has pages for celebrities, businesses, and groups.
  Small businesses that can't afford the time or money to maintain a website
- of their own can very easily create a facebook page and populate it with
+ of their own can very easily create a Facebook page and populate it with
  their physical address (if there is one), their products/services, their
  contact information, and can even communicate with possible customers.
 \end_layout
@@ -770,8 +770,8 @@ Emergence is a principle in classical systems theory that generally suggests
 
  This is a logical question.
  Engineering is supposed to be the logical application of science.
- Why bother taking the time to carefully design systems if random, unpredicatabl
-e properties may emerge and ruin the system? Fromm goes on to say 
+ Why bother taking the time to carefully design systems if random, unpredictable
+ properties may emerge and ruin the system? Fromm goes on to say 
 \begin_inset Quotes eld
 \end_inset
 
@@ -789,7 +789,7 @@ Fischer and Emergence
 \end_layout
 
 \begin_layout Paragraph
-David Fisher has a slighty different take on emergence.
+David Fisher has a slightly different take on emergence.
  He believes that 
 \begin_inset Quotes eld
 \end_inset
@@ -810,7 +810,7 @@ Emergent behavior is often observed but poorly understood, especially in
 Because we don't understand enough about the processes by which local actions
  and interactions with neighbors are composed to produce emergent behavior,
  we often are surprised at the resulting emergent global effects.
- This has encouraged the belief that emergent behavior is synonmous with
+ This has encouraged the belief that emergent behavior is synonymous with
  unexpected, unanticipated, unpredictable, and undesirable behavior
 \begin_inset Quotes erd
 \end_inset
@@ -818,7 +818,7 @@ Because we don't understand enough about the processes by which local actions
 .
  Fisher uses the rest of his paper to explain why and how emergent behavior
  can be tamed and predictable.
- His explanation offers some solice that emergence isn't totally out of
+ His explanation offers some solace that emergence isn't totally out of
  the hands of the systems engineer while casually admitting that some aspects
  of emergent behavior are not wholly understood.
  He says 
@@ -843,8 +843,8 @@ Fisher has come up with five maxim-like findings.
 
 \begin_layout Enumerate
 Because they cannot control one another, autonomous entities can achieve
- goals that are not local to themselves only by increasing thier influence
- through cooperative interations with others.
+ goals that are not local to themselves only by increasing their influence
+ through cooperative interactions with others.
 \end_layout
 
 \begin_layout Enumerate
@@ -909,16 +909,158 @@ Norm Augustine anecdotally described how perspective plays a large part
  Behaviors start to become mysterious again because no one has had the time
  or ability to do any analysis.
  The technological world we live in changes and adapts so quickly that by
- the time any analysis or research is done, there is a good possiblity that
- the technology is either no longer relevant or changed dramatically.
+ the time any analysis or research is done, there is a good possibility
+ that the technology is either no longer relevant or changed dramatically.
 \end_layout
 
 \begin_layout Section
 Emergence and Philosophy
 \end_layout
 
+\begin_layout Paragraph
+Another difficulty associated with emergence seems somewhat out of place
+ in an engineering paper.
+ The idea that philosophy plays a role in emergence in systems of systems
+ seems a bit strange.
+ Keating does his best to describe why he thinks so.
+ He contends 
+\begin_inset Quotes eld
+\end_inset
+
+Understanding our own philosophical leanings, as well as those of others
+ critical to the SoS effort, is crucial.
+ This is particularly the case when we are dealing with complex system problems
+ that involve multiple perspectives, disciplines, and potentially conflicting
+ values/beliefs.
+ Ultimately, philosophical disposition will establish the acceptable range
+ of decisions, actions, and interpretations necessary to deal with emergence
+ inherent in SoS
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This idea brings about two very important points.
+ The first is what Keating directly says.
+ Our own view of life, the world, engineering, of everything will play an
+ important part in how we respond to emergence (since remember, Keating
+ believes emergence is mostly out of our control).
+ Are we the type of people to just hope that a system behaves according
+ to how it should piece for piece and lament if emergent behavior shows?
+ If we are that controlling we may tighten the coupling of the system in
+ effort to rid the system of the emergent behavior.
+ This will just cause more of Fisher's accidents to occur (which will lead
+ to more coupling) which will ultimately lead to an extremely coupled (and
+ useless) system.
+ However, we might approach emergence with a cautious optimism, excited
+ as to how it could shape our present system.
+ If this were the case we might do our best to try to predict, or at least
+ guide, the emergence from the system.
+\end_layout
+
+\begin_layout Paragraph
+Something else can be drawn from Keating's discussion of philosophy and
+ emergence, especially how it pertains to social networks.
+ When people are major components of a system, each individual and their
+ philosophy on life are important.
+ Philosophy affects how people influence others and take advantage of the
+ system.
+ For example, a recent Facebook hack was discovered that enabled anyone
+ to anyone else's private photos.
+ The individual who discovered this could have taken several courses of
+ action.
+ He/She could have done:
+\end_layout
+
+\begin_layout Itemize
+Nothing
+\end_layout
+
+\begin_layout Itemize
+Told just a few friends about it (who may have then spread the world more
+ aggressively)
+\end_layout
+
+\begin_layout Itemize
+Spread the word aggressively to the 
+\begin_inset Quotes eld
+\end_inset
+
+world
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Informed Facebook of the bug right away
+\end_layout
+
+\begin_layout Itemize
+Informed Facebook after exploiting the 
+\begin_inset Quotes eld
+\end_inset
+
+feature
+\begin_inset Quotes erd
+\end_inset
+
+ a bit
+\end_layout
+
+\begin_layout Paragraph
+The person in question must have gone either the route of telling a few
+ people, or telling the world, since the problem still exists and Facebook
+ is actively trying to fix it (while suspending accounts taking advantage
+ of the hack).
+ The collective philosophy of the users of a community converge to become
+ the philosophy of the community itself.
+ 
+\end_layout
+
 \begin_layout Chapter
 Conclusion
+\end_layout
+
+\begin_layout Paragraph
+Emergence is a fascinating topic.
+ It has the ability to literally make or break a large system of systems.
+ Emergence can be a good thing or a bad thing, a predictable or unpredictable
+ thing (depending on the definition you ascribe to), and most definitely
+ due to the interactions between system components.
+ The key to emergent behavior is most definitely the communication between
+ various system nodes.
+ The influence that they can exert on each other and have cascade through
+ the system lead to emergent behaviors.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Since communication is the key factor in emergence, the easiest place to
+ observe emergent behaviors is in modern day social networks.
+ Networks like Facebook and Twitter have evolved substantially from the
+ day that they went lives many years ago.
+ The networks themselves have been largely manipulated due to the users
+ of the systems themselves.
+ The two systems mentioned, in particular, have largely benefited from this
+ emergent behaviors.
+ They have gained more users, more advertisers, and thus, more profits.
+\end_layout
+
+\begin_layout Paragraph
+Emergence doesn't come without its set of difficulties though.
+ Even using an optimistic definition of the topic still leaves some aspect
+ of mystery.
+ The pessimistic definition leaves little hope to attempt to engineer emergence
+ into any system.
+ It even leaves little hope in trying to predict it.
+ Until these ultra-large scale systems are more thoroughly analyzed and
+ understood, emergent behaviors present in them will remain a bit mysterious.
+ Finally, since these systems are ever-growing and every-changing, doing
+ any sort of long term analysis seems futile.
+ The better route may be trying to analyze the human participants within
+ the system since their individual philosophies also play a large part in
+ the emergence that will manifest in the system.
 \end_layout
 
 \begin_layout Bibliography
@@ -960,7 +1102,7 @@ key "key-3"
 \end_inset
 
 Haglich, Peter, Christopher Rouff, and Laura Pullum.
- Detecing Emergence in Social Networks.
+ Detecting Emergence in Social Networks.
  Tech.
  IEEE International Conference on Social Computing, 2010.
  Print.
@@ -1009,7 +1151,7 @@ key "key-7"
 Morley, John.
  "Library | Five Maxims about Emergent Behavior in Systems of Systems." Software
  Engineering Institute.
- Software Engineering Institue at Carnegie Mellon, 01 June 2006.
+ Software Engineering Institute at Carnegie Mellon, 01 June 2006.
  Web.
  01 Dec.
  2011.
