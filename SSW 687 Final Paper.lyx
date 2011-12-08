@@ -79,11 +79,11 @@ Some of today's largest systems are the social networks that connect us
  much different than they do today.
  A major player in the transformation of networks like Facebook and Twitter
  has been the phenomenon called Emergence.
- Unexpected, often highly desirable effects often emerge from these large,
- distributed systems with large amounts of human interaction.
+ Unexpected, often highly desirable effects emerge from these large, distributed
+ systems with large amounts of human interaction.
  In fact, the emergent behaviors have come to be defining factors in the
  systems in which they emerge.
- The big question then remains: Can these emergent behaviors be build into
+ The big question then remains: Can these emergent behaviors be built into
  new systems?
 \end_layout
 
@@ -103,8 +103,8 @@ One of the most fascinating topics in Systems Engineering, and more particularly
 \end_layout
 
 \begin_layout Paragraph
-Some of the best examples today of systems of systems that display and take
- advantage of emergence are social networks.
+Some of the best examples of systems of systems that display and take advantage
+ of emergence are social networks.
  It is one of those areas that sees the rise and fall of many competitors
  trying desperately to win the war of the top social network.
  The list of those that have faded away vastly outweighs the list of the
@@ -112,8 +112,7 @@ Some of the best examples today of systems of systems that display and take
  Systems like Myspace, Google+, Orkut, and Friendster all have vied and
  fallen to networks like Facebook and Twitter.
  Whether they realize it or not, each user of these systems is a key player
- in the system (which is a system of a systems) the emergence that the system
- exhibits.
+ in the emergence that the system (which is a system of a systems) exhibits.
  In fact, the users themselves are one of the primary reasons that the emergence
  exists at all.
 \end_layout
@@ -130,8 +129,8 @@ can emergent behavior be engineered into a system?
 .
  The quick answer depends largely upon the definition of emergence that
  is used.
- Some definitions make a clear distinction that emergent behavior can be
- predicted from component behavior.
+ Some definitions make a clear distinction that emergent behavior can't
+ be predicted from component behavior.
  Other definitions, however, make no such reference.
  Nonetheless, even if the former definition is selected, perhaps something
  else can be analyzed in attempt to predict emergent behavior (outside of
@@ -147,17 +146,20 @@ Emergence, In General
 \end_layout
 
 \begin_layout Paragraph
-Emergence is a key trait of many system of systems.
- It is best described by David Fischer in his paper 
+Emergence is a key trait of many systems of systems.
+ It is best described by David Fisher in his paper 
 \begin_inset Quotes eld
 \end_inset
 
-An Emergent Perspective on Inter-operation in Systems of Systems
+An Emergent Perspective on Interoperation in Systems of Systems
 \begin_inset Quotes erd
 \end_inset
 
 .
  He says that 
+\end_layout
+
+\begin_layout Subparagraph
 \begin_inset Quotes eld
 \end_inset
 
@@ -169,13 +171,17 @@ Emergent behaviors are actions that cannot be localized to any single component
 \end_inset
 
 .
- It is therefore safe to deduce a few things about emergence.
+ 
+\end_layout
+
+\begin_layout Paragraph
+It is therefore safe to deduce a few things about emergence.
  First, it is a property only of large systems of systems.
  Secondly (and relatedly), it can be used as a defining factor for whether
  a system is a true system of systems.
  Finally, the key force behind emergence is the interaction or communication
  between system elements.
- Charles Keating reiterates Fischer's definition by saying 
+ Charles Keating reiterates Fisher's definition by saying 
 \begin_inset Quotes eld
 \end_inset
 
@@ -201,9 +207,12 @@ Emergence is a principle in classical systems theory that generally suggests
 \begin_layout Paragraph
 There is a bit more to the definition of emergence than just effects that
  arise from the interaction of system components.
- Both Fischer and Keating go on in their definitions and describe a few
- very important aspects of emergence.
- Fischer says 
+ Both Fisher and Keating go on in their definitions and describe a few very
+ important aspects of emergence.
+ Fisher says 
+\end_layout
+
+\begin_layout Subparagraph
 \begin_inset Quotes eld
 \end_inset
 
@@ -214,16 +223,19 @@ Emergence is the unavoidable result of interactions among autonomous entities
 \end_inset
 
 .
- Emergent system properties are entirely neutral.
+\end_layout
+
+\begin_layout Paragraph
+Emergent system properties are entirely neutral.
  They can try to be designed into a system or pop up unexpectedly.
  They can also be really good things, really bad things, or even things
  that have no effect.
- Finally, Keating gives a slightly disturbing caveat to emergence.
+ Keating gives a slightly disturbing caveat to emergence.
  He says 
 \begin_inset Quotes eld
 \end_inset
 
-These emergent properties are no ascribable to any of the system elements
+These emergent properties are not ascribable to any of the system elements
  and cannot be understood/predicted from the properties of the system elements
 \begin_inset Quotes erd
 \end_inset
@@ -231,8 +243,8 @@ These emergent properties are no ascribable to any of the system elements
 .
  For engineers, this is a scary thought.
  This leaves open the possibility that a system could be designed from other
- other systems and even though the plan was well thought out and verified,
- an emergence effect could pop up and possibly ruin the system.
+ systems and even though the plan was well thought out and verified, an
+ emergence effect could pop up and possibly ruin the system.
  
 \end_layout
 
@@ -276,13 +288,12 @@ You're crazy :)
  The easiest way to describe this property of emergence is with a simple,
  familiar example.
  Dad comes home from work in a bad mood.
- He is then short and snippy with his wife when she greets him at home.
+ He is short and snippy with his wife when she greets him at home.
  The wife, who up until this point was in a good mood, is now in a bad mood.
  She then proceeds to scold her child for making too much noise (which up
  until this point has not bothered her).
  The child is now in a bad mood for being yelled at.
- And a near silent household has emerged since everyone is mad at everyone
- else.
+ And a near silent household has emerged since everyone is in a bad mood.
  That sums up cascading effects, influence, and an emergent behavior all
  in one.
 \end_layout
@@ -291,13 +302,13 @@ You're crazy :)
 The previous two examples also supply evidence for other properties of emergence.
  The Coherent Structure and Tight Coupling of the family definitely helped
  produce the emergent behavior.
- But perhaps the largest player in the two example are what Fischer describes
+ But perhaps the largest player in the two examples are what Fisher describes
  as Semantic Issues.
  In the examples the tone and intention of the language used between two
  parties are the semantic issues.
  These semantic issues would seem to be localized to the human domain, but
  they are not.
- In the world of the Internet, information sharing, and information analysis
+ In the world of the Internet, information sharing, and information analysis,
  semantic issues creep up in transmitting, codifying, and reasoning amongst
  non-human entities.
  
@@ -329,15 +340,15 @@ After understanding what emergence actually is and all of the things it
  able to see emergence that may not have made itself apparent yet or solidly
  defining the prospect of emergent behavior.
  Predicting emergent behaviors (and/or trying to build them into a system)
- is another topic entirely; one which as will be discussed later may not
- even be possible.
+ is another topic entirely; one which, as will be discussed later, may or
+ may not even be possible.
  Several methods have been researched and reported on that may shed light
  on detecting emergent behaviors in a system.
 \end_layout
 
 \begin_layout Paragraph
-Peter Haglich and Laura Pullum researched and reported on a method of attempting
- to detect emergence in social networks.
+Peter Haglich and Laura Pullum researched a method of attempting to detect
+ emergence in social networks.
  They posed that 
 \begin_inset Quotes eld
 \end_inset
@@ -359,7 +370,7 @@ Detecting emergent behavior in social networks can help determine when or
 \end_inset
 
 .
- Together, Haggish and Pullum conducted some analysis using semi-boolean
+ Together, Haglich and Pullum conducted some analysis using semi-boolean
  algebra to achieve their end.
  They concede that their approach only provides the ability to discover
  explicit emergent behavior.
@@ -384,12 +395,15 @@ In another paper Jochen Fromm postulates that the scientific method could
 \end_inset
 
 .
- More specifically, Fromm finds that at small scales, the systems with the
- larger system behaves exactly as designed.
+ More specifically, Fromm finds that at small scales, the systems within
+ the larger system behaves exactly as designed.
  No unexpected behavior can be found.
  However, once systems begin to be combined with other systems and the view
  of the system becomes much higher, unpredictable behaviors emerge.
  Fromm's details his solutions: 
+\end_layout
+
+\begin_layout Subparagraph
 \begin_inset Quotes eld
 \end_inset
 
@@ -402,7 +416,11 @@ There is no formal approach or methodology which would be a solution to
 \end_inset
 
 .
- Fromm goes on to say that since the scientific method has yet to really
+ 
+\end_layout
+
+\begin_layout Paragraph
+Fromm goes on to say that since the scientific method has yet to really
  be used in the discipline of engineering that it is a viable route to explore.
  Fromm posits that engineering and science are actually trying to do the
  same thing: 
@@ -452,8 +470,7 @@ smart mob
 \end_inset
 
 .
- What is most interesting are the two conclusions that they draw from the
- case studies.
+ They draw two conclusions that they draw from the case studies.
  First, they 
 \begin_inset Quotes eld
 \end_inset
@@ -516,7 +533,7 @@ Facebook
 \begin_inset Quotes eld
 \end_inset
 
-twitter
+Twitter
 \begin_inset Quotes erd
 \end_inset
 
@@ -545,7 +562,7 @@ following
  other peoples message feeds.
  The initial idea was to simply broadcast whatever was on your mind at that
  moment in time.
- Since it's inception, twitter has ballooned to over 300 million users who
+ Since it's inception, Twitter has ballooned to over 300 million users who
  tweet more than 300 million tweets a day.
  
 \end_layout
@@ -635,9 +652,9 @@ friend
  had) to see.
  It was a simple, relatively small system.
  Facebook started out exclusively for the students at Harvard University.
- After subsequent releases to just colleges (user's were required to have
- a valid college email address), then to special invites from college only
- users, to then the entire world, Facebook has grown to over 800 million
+ After subsequent releases to just college students (user's were required
+ to have a valid college email address), then to special invites from college
+ only users, to then the entire world, Facebook has grown to over 800 million
  users.
  Facebook has not only grown in terms of user base.
  It has also grown significantly in terms of functionality and emergence
@@ -744,6 +761,9 @@ The Paradox of Emergence
 Many of the definitions of emergence and emergent behavior create a paradoxical
  understanding of the subject.
  Recall Keating's definition of emergence: 
+\end_layout
+
+\begin_layout Subparagraph
 \begin_inset Quotes eld
 \end_inset
 
@@ -756,7 +776,11 @@ Emergence is a principle in classical systems theory that generally suggests
 \end_inset
 
 .
- This definition leads to many paradoxical questions.
+ 
+\end_layout
+
+\begin_layout Paragraph
+This definition leads to many paradoxical questions.
  Jochen Fromm raises most of them.
  He asks 
 \begin_inset Quotes eld
@@ -785,7 +809,7 @@ Emergence is a principle in classical systems theory that generally suggests
 \end_layout
 
 \begin_layout Section
-Fischer and Emergence
+Fisher and Emergence
 \end_layout
 
 \begin_layout Paragraph
@@ -804,6 +828,9 @@ Emergent behavior is often observed but poorly understood, especially in
  and pessimism that other authors converge to.
  He directly addresses some of the mystery and paradox mentioned above.
  Fisher says 
+\end_layout
+
+\begin_layout Subparagraph
 \begin_inset Quotes eld
 \end_inset
 
@@ -816,7 +843,11 @@ Because we don't understand enough about the processes by which local actions
 \end_inset
 
 .
- Fisher uses the rest of his paper to explain why and how emergent behavior
+ 
+\end_layout
+
+\begin_layout Paragraph
+Fisher uses the rest of his paper to explain why and how emergent behavior
  can be tamed and predictable.
  His explanation offers some solace that emergence isn't totally out of
  the hands of the systems engineer while casually admitting that some aspects
@@ -901,7 +932,7 @@ Norm Augustine anecdotally described how perspective plays a large part
  This same sort of logic can be applied to social networks.
  At one of the larger scales, each modern day social network (Facebook,
  Twitter, Reddit, Google+) also now has the ability to interact not only
- with each other, but also other systems like news websites.
+ with each other, but also with other systems like news websites.
  As the system and system view become larger and higher a few things happen.
  First, the probability of emergent behavior manifesting increases.
  Second, the ability to analyze the system as a whole becomes much harder.
@@ -910,7 +941,7 @@ Norm Augustine anecdotally described how perspective plays a large part
  or ability to do any analysis.
  The technological world we live in changes and adapts so quickly that by
  the time any analysis or research is done, there is a good possibility
- that the technology is either no longer relevant or changed dramatically.
+ that the technology is either no longer relevant or has changed dramatically.
 \end_layout
 
 \begin_layout Section
@@ -924,6 +955,9 @@ Another difficulty associated with emergence seems somewhat out of place
  seems a bit strange.
  Keating does his best to describe why he thinks so.
  He contends 
+\end_layout
+
+\begin_layout Subparagraph
 \begin_inset Quotes eld
 \end_inset
 
@@ -939,7 +973,11 @@ Understanding our own philosophical leanings, as well as those of others
 \end_inset
 
 .
- This idea brings about two very important points.
+ 
+\end_layout
+
+\begin_layout Paragraph
+This idea brings about two very important points.
  The first is what Keating directly says.
  Our own view of life, the world, engineering, of everything will play an
  important part in how we respond to emergence (since remember, Keating
@@ -965,7 +1003,7 @@ Something else can be drawn from Keating's discussion of philosophy and
  Philosophy affects how people influence others and take advantage of the
  system.
  For example, a recent Facebook hack was discovered that enabled anyone
- to anyone else's private photos.
+ to view anyone else's private photos.
  The individual who discovered this could have taken several courses of
  action.
  He/She could have done:
