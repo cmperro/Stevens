@@ -99,7 +99,18 @@ One of the most fascinating topics in Systems Engineering, and more particularly
  philosophy, axioms, and so much more.
  Emergence is the defining factor in what makes many of our systems today
  useful, valuable, and unique.
- 
+ John Morley, in an article for the SEI at Carnegie Mellon, said that 
+\begin_inset Quotes eld
+\end_inset
+
+Exploiting emerging behavior offers great potential for systems of systems,
+ not only to overcome the problems of interoperation but also to achieve
+ levels of adaptability, scalability, and cost-effectiveness not possible
+ in traditional systems
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -496,6 +507,22 @@ the combination of patterns, identified at different abstraction levels,
  actual subsystems and onto the communication between those systems.
  The communication, not components, becomes the focus of detecting emergent
  behavior.
+ The authors are so confident in thier approach that they state 
+\end_layout
+
+\begin_layout Subparagraph
+\begin_inset Quotes eld
+\end_inset
+
+...
+ our approach supports the possibility that through modeling, not only are
+ we in a position to explain previously puzzling emergent properties, but
+ perhaps more interestingly, our models allow us to discover previously
+ unknown emergent patterns in complex systems of various kinds
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -588,7 +615,11 @@ tweeting
  or what they are looking at...).
  The thought/ability to tweet links lead news websites to tweet links to
  newly posted articles.
- The ability mention someone in a tweet has enabled users to have line by
+ 
+\end_layout
+
+\begin_layout Paragraph
+The ability mention someone in a tweet has enabled users to have line by
  line conversations with each other and even celebrities! The system has
  enabled an outlet for celebrities/sports players/politicians connect randomly
  with their followers.
@@ -604,13 +635,21 @@ verify
 \end_inset
 
  accounts, but people are still undoubtedly fooled everyday.
- Twitter has also become a free means of distributing useful services.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Twitter has also become a free means of distributing useful services.
  Take, for example, the MTA.
  Twitter provides the MTA a stable Internet infrastructure to disseminate
  information like subway line availability and delays.
  People can now receive useful information and check up on their friends
  all in one place.
- Finally, Twitter has become an invaluable tool in aiding and organizing
+ 
+\end_layout
+
+\begin_layout Paragraph
+Finally, Twitter has become an invaluable tool in aiding and organizing
  Louca, Symons, Rodrigues, and Morais' smart mobs.
  As this paper is being written, the various Occupy groups across the country
  (and world) are using Twitter not only to spread their message, but also
@@ -864,11 +903,24 @@ Fisher uses the rest of his paper to explain why and how emergent behavior
 \end_inset
 
 .
+ The presence of the word phenomenon suggests that, at some level, there
+ are unknown or mysterious causes.
  
 \end_layout
 
 \begin_layout Paragraph
-Fisher has come up with five maxim-like findings.
+Fisher has come up with five maxim-like findings about emergence and interoperat
+ion in systems of systems.
+ Morley says that they help 
+\begin_inset Quotes eld
+\end_inset
+
+facilitate discussion and reasoning about interoperation (and emergence)
+ within systems of systems
+\begin_inset Quotes erd
+\end_inset
+
+.
  They are:
 \end_layout
 
@@ -989,8 +1041,8 @@ This idea brings about two very important points.
  This will just cause more of Fisher's accidents to occur (which will lead
  to more coupling) which will ultimately lead to an extremely coupled (and
  useless) system.
- However, we might approach emergence with a cautious optimism, excited
- as to how it could shape our present system.
+ On the other hand, we might approach emergence with a cautious optimism,
+ excited as to how it could shape our present system.
  If this were the case we might do our best to try to predict, or at least
  guide, the emergence from the system.
 \end_layout
