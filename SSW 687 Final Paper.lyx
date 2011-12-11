@@ -181,7 +181,7 @@ Emergent behaviors are actions that cannot be localized to any single component
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (1).
  
 \end_layout
 
@@ -202,7 +202,7 @@ Emergence is a principle in classical systems theory that generally suggests
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (173).
  Keating goes on to quote Aristotle to create a poignant analogy: 
 \begin_inset Quotes eld
 \end_inset
@@ -211,7 +211,7 @@ Emergence is a principle in classical systems theory that generally suggests
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (174).
  
 \end_layout
 
@@ -233,7 +233,7 @@ Emergence is the unavoidable result of interactions among autonomous entities
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (1).
 \end_layout
 
 \begin_layout Paragraph
@@ -251,7 +251,7 @@ These emergent properties are not ascribable to any of the system elements
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (173-174).
  For engineers, this is a scary thought.
  This leaves open the possibility that a system could be designed from other
  systems and even though the plan was well thought out and verified, an
@@ -274,7 +274,7 @@ Influence is any mechanism by which one entity interacts with another in
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (Fisher 14).
  Influence has a broad definition, and rightly so.
  If influence is considered in the realm of human interaction (which can
  be a major component of any system) it can be seen why it is so powerful.
@@ -364,13 +364,13 @@ Peter Haglich and Laura Pullum researched a method of attempting to detect
 \begin_inset Quotes eld
 \end_inset
 
-Multiple interconnected networks can be considered a system of System's
- with the collective networks comprising the larger system - individual
- interacting networks with each network is also a system in its own right
+Multiple interconnected networks can be considered a system of systems with
+ the collective networks comprising the larger system - individual interacting
+ networks with each network is also a system in its own right
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (693).
  They chose social networks because 
 \begin_inset Quotes eld
 \end_inset
@@ -380,7 +380,7 @@ Detecting emergent behavior in social networks can help determine when or
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (693).
  Together, Haglich and Pullum conducted some analysis using semi-boolean
  algebra to achieve their end.
  They concede that their approach only provides the ability to discover
@@ -590,7 +590,7 @@ following
  The initial idea was to simply broadcast whatever was on your mind at that
  moment in time.
  Since it's inception, Twitter has ballooned to over 300 million users who
- tweet more than 300 million tweets a day.
+ tweet more than 300 million tweets a day (Twitter).
  
 \end_layout
 
@@ -697,7 +697,7 @@ friend
  users.
  Facebook has not only grown in terms of user base.
  It has also grown significantly in terms of functionality and emergence
- has played a key role here as well.
+ has played a key role here as well (Facebook).
 \end_layout
 
 \begin_layout Paragraph
@@ -814,7 +814,7 @@ Emergence is a principle in classical systems theory that generally suggests
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (173-174).
  
 \end_layout
 
@@ -862,7 +862,7 @@ Emergent behavior is often observed but poorly understood, especially in
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (13).
  His paper on Emergence and Systems of Systems attempts to remove the mystery
  and pessimism that other authors converge to.
  He directly addresses some of the mystery and paradox mentioned above.
@@ -881,7 +881,7 @@ Because we don't understand enough about the processes by which local actions
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (13).
  
 \end_layout
 
@@ -920,7 +920,7 @@ facilitate discussion and reasoning about interoperation (and emergence)
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (Morley).
  They are:
 \end_layout
 
@@ -1024,7 +1024,7 @@ Understanding our own philosophical leanings, as well as those of others
 \begin_inset Quotes erd
 \end_inset
 
-.
+ (175).
  
 \end_layout
 
@@ -1161,6 +1161,21 @@ key "key-1"
 
 \end_inset
 
+"Facebook." Wikipedia, the Free Encyclopedia.
+ Web.
+ 11 Dec.
+ 2011.
+ <http://en.wikipedia.org/wiki/Facebook>.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
 Fisher, David A.
  An Emergent Perspective on Interoperation in Systems of Systems.
  Tech.
@@ -1246,6 +1261,40 @@ Morley, John.
  01 Dec.
  2011.
  <http://www.sei.cmu.edu/library/abstracts/news-at-sei/feature2200606.cfm>.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-4"
+
+\end_inset
+
+The Mysterious Field of Engineering Systems.
+ Perf.
+ Norman Augustine.
+ MIT World.
+ 16 June 2009.
+ Web.
+ 29 Nov.
+ 2011.
+ <http://mitworld.mit.edu/video/698>.
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-3"
+
+\end_inset
+
+"Twitter." Wikipedia, the Free Encyclopedia.
+ Web.
+ 11 Dec.
+ 2011.
+ <http://en.wikipedia.org/wiki/Twitter>.
 \end_layout
 
 \end_body
